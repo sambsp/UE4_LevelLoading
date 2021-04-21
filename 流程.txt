@@ -1,0 +1,6 @@
+编辑器：
+
+从StartLevel开始
+显示主菜单（隶属于StartLevel）
+	StartGame -》进入ThirdPersonExampleMap关卡
+	人物移动到那个旋转的地标附近 =》装在TestLevel关卡
